@@ -1,3 +1,9 @@
+# DnD-Store /w Convex
+
+A simple demo of Convex's platform by building an e-commerce website that sells DnD themed tshirts.
+
+Read more about Convex: https://www.convex.dev/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
